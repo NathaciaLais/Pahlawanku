@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Android-PAB" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BelajarExplicit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BelajarImplicitIntent" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FinishKulinerkita" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FinishKulinerkita/KulinerKita" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KulinerKita" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Pahlawanku" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RelativeAneh" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/UtsNathacia" vcs="Git" />
+  </component>
+</project>
